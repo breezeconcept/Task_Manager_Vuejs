@@ -32,7 +32,7 @@ This project serves as a practical example of building a Vue.js application with
 
 ## Demo
 
-You can access a live demo of the Vue.js Task Manager App here: [Live Demo](https://Task_Manager.netlify.app/)
+You can access a live demo of the Vue.js Task Manager App here: [Live Demo](https://breeze-task-manager.netlify.app/)
 
 ## Installation
 
